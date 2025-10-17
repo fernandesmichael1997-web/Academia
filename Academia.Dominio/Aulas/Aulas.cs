@@ -12,6 +12,7 @@ namespace Academia.Dominio.Aulas
     {
         Cross = 1,
         Funcional = 2,
-        Pilates = 3
+        Pilates = 3,
+        Musculacao = 4
     }
 }
